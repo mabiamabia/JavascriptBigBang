@@ -1,0 +1,23 @@
+classe 
+----
+precisa ter propriedades
+exemplo: 
+classe pessoa
+propriedades:
+nome, cpf, sexo
+
+classe livro:
+propriedade: nome, numero de paginas, preço
+
+--------------------------------------
+objeto
+
+atributos
+açoes/metodos:
+exemplo de metodos da classe pessoa:
+-Apresentar
+-Andar
+
+exemplo de metodos da classe notaFiscal:
+-
+-
