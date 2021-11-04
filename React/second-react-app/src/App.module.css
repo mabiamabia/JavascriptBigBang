@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+.MainContainer {
+  padding: 4% 12%;
+  margin-top: 32px;
+  width: 100%;
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+}
+
+.ProductPreview {
+  width: 50%;
+  position: relative;
+}
+
+.ProductData {
+  width: 50%;
+}
+
+.ProductPreview > img {
+  width: 100%;
+}
